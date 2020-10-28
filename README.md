@@ -3,7 +3,7 @@
 > Don't remember too much then I'm not gonna withdraw because there is the place where I desire to be
 
 <a  href="#">
-  <img  align="right"  src="https://github-readme-stats.vercel.app/api?username=Annayamada&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069&count_private=true&include_all_commits=true">
+  <img  align="right"  src="https://github-readme-stats.vercel.app/api?username=Annayamada&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=1169ee&count_private=true&include_all_commits=true">
 </a>
 
 Hi, glad to meet you~
